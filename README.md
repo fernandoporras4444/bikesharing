@@ -30,3 +30,5 @@ The analysis indicates a few key points that males (Gender Type) being the highe
 
 To view the NYC Bike Sharing information and report analysis just click the link:
 https://public.tableau.com/app/profile/fernando.porras/viz/CitibkeStory-Fernando/CitibikeStory?publish=yes
+
+[link to dashboard](https://public.tableau.com/app/profile/fernando.porras/viz/CitibkeStory-Fernando/CitibikeStory?publish=yes)
