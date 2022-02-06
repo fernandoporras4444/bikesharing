@@ -1,7 +1,7 @@
 # Bike Sharing
 
 ## Project Overview:
-The purpose of the project was create visualizations with data from the NY Citibike Sharing program and develop a story report in Tableau for possible business proposal for the city of Des Moines.
+The purpose of the project was create visualizations with data from the NY Citibike Sharing program and develop an analyis report in Tableau for possible business proposal in the city of Des Moines.
 
 ## Results:
   - Checkout Times for Users shows the length of duration which the bikes were checked out.
@@ -28,7 +28,4 @@ The purpose of the project was create visualizations with data from the NY Citib
 ## Summary:
 The analysis indicates a few key points that males (Gender Type) being the highest bike user along with subscirber (Usertype) over just being a customer, and peak hours of bike users are around morning hours between 7am - 8am and evening hours between 5pm - 6pm for work timeframes.
 
-To view the NYC Bike Sharing information and report analysis just click the link:
-https://public.tableau.com/app/profile/fernando.porras/viz/CitibkeStory-Fernando/CitibikeStory?publish=yes
-
-[link to dashboard](https://public.tableau.com/app/profile/fernando.porras/viz/CitibkeStory-Fernando/CitibikeStory?publish=yes)
+To view the NYC Bike Sharing information and report analysis just click [NYC Citibike Sharing](https://public.tableau.com/app/profile/fernando.porras/viz/CitibkeStory-Fernando/CitibikeStory?publish=yes).
